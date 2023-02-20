@@ -1,5 +1,5 @@
 # ReDI School Cloud Computing course
-The Cloud Computing course in the Digital Career Program in NRW
+The Cloud Computing course in the Digital Career Program in Hamburg
 
 ## Teaching Materials
 We focus on Cloud Computing topics with Microsoft Azure
