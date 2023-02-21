@@ -5,7 +5,7 @@ The Cloud Computing course in the Digital Career Program in Hamburg
 We focus on Cloud Computing topics with Microsoft Azure
 ### Microsoft Learn
 - [MS Learn website](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
-- [Azure Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Azure_Fundamentals_AZ900?csf=1&web=1&e=LwomDk) (presentation & files in Teacher's channel in MS Teams)
+- [Azure Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/17PmzXhbISklyr1MePBY-2--SPFaQhgL3)
 - [Azure Data Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Azure_Data%20Fundamentals_DP900?csf=1&web=1&e=8mnJWD) (presentation & files in Teacher's channel in MS Teams)
 - [Security Compliance Identity Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Security_Compliance_Identity_Fundamentals_SC900?csf=1&web=1&e=vrdn50) (presentation & files in Teacher's channel in MS Teams)
 
