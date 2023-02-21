@@ -6,11 +6,11 @@ We focus on Cloud Computing topics with Microsoft Azure
 ### Microsoft Learn
 - [MS Learn website](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
 - [Azure Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/17PmzXhbISklyr1MePBY-2--SPFaQhgL3)
-- [Azure Data Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Azure_Data%20Fundamentals_DP900?csf=1&web=1&e=8mnJWD) (presentation & files in Teacher's channel in MS Teams)
-- [Security Compliance Identity Fundamentals presentations and teaching guides](https://redischool1.sharepoint.com/:f:/r/sites/CloudComputing-Teachers/Freigegebene%20Dokumente/Teachers/Teaching_Materials/2022_Spring/Microsoft_Security_Compliance_Identity_Fundamentals_SC900?csf=1&web=1&e=vrdn50) (presentation & files in Teacher's channel in MS Teams)
+- [Azure Data Fundamentals presentations and teaching guides]
+- [Security Compliance Identity Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/17PmzXhbISklyr1MePBY-2--SPFaQhgL3)
 
 ### Project Description
-- [Project Description](https://docs.google.com/document/d/16Lz88wbmPacpxv9l1xffkhHCcUP2DaanDdo_KQ27qAk/edit?usp=sharing)
+- [Project Description](https://docs.google.com/document/d/1NGk5EybHx4DGuw7R6lShKpTGZftMfvkl/edit#)
 
 <details> <summary>Additional resources from other cloud services</summary>
 <p>AWS Training (Amazon account needed to access materials)</br>
