@@ -6,7 +6,6 @@ We focus on Cloud Computing topics with Microsoft Azure
 ### Microsoft Learn
 - [MS Learn website](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
 - [Azure Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/17PmzXhbISklyr1MePBY-2--SPFaQhgL3)
-- [Azure Data Fundamentals presentations and teaching guides]
 - [Security Compliance Identity Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/17PmzXhbISklyr1MePBY-2--SPFaQhgL3)
 
 ### Project Description
