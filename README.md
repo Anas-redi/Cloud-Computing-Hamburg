@@ -5,11 +5,11 @@ The Cloud Computing course in the Digital Career Program in Hamburg
 We focus on Cloud Computing topics with Microsoft Azure
 ### Microsoft Learn
 - [MS Learn website](https://docs.microsoft.com/en-us/learn/browse/?products=azure)
-- [Azure Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/17PmzXhbISklyr1MePBY-2--SPFaQhgL3)
-- [Security Compliance Identity Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/17PmzXhbISklyr1MePBY-2--SPFaQhgL3)
+- [Azure Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/1A9Y64U26z63_3jPideUilxW7S3thlPXO)
+- [Security Compliance Identity Fundamentals presentations and teaching guides](https://drive.google.com/drive/folders/1A9Y64U26z63_3jPideUilxW7S3thlPXO)
 
 ### Project Description
-- [Project Description](https://docs.google.com/document/d/1NGk5EybHx4DGuw7R6lShKpTGZftMfvkl/edit#)
+- [Project Description](https://docs.google.com/document/d/1aGqTLdZdysJtHBtyeOZyPMMmVN2DIafJsdeNgNHQJno/edit?usp=drive_link)
 
 <details> <summary>Additional resources from other cloud services</summary>
 <p>AWS Training (Amazon account needed to access materials)</br>
